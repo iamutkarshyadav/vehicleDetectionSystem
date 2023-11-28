@@ -28,7 +28,7 @@ Make sure you have the following libraries installed before running the project:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/vehicle-detection-project.git
+    git clone https://github.com/iamutkarshyadav/vehicle-detection-project.git
     cd vehicle-detection-project
     ```
 
