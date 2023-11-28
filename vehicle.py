@@ -106,3 +106,4 @@ while True:
 # Close all windows and release the video capture object
 cv2.destroyAllWindows()
 cap.release()
+
