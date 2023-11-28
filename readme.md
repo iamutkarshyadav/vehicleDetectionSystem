@@ -41,7 +41,7 @@ Make sure you have the following libraries installed before running the project:
 3. Run the project:
 
     ```bash
-    python vehicle_detection.py
+    python vehicle.py
     ```
 
 4. Press `Enter` to exit the program.
