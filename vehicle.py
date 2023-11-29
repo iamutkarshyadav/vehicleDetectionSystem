@@ -12,7 +12,7 @@ cap = cv2.VideoCapture('video.mp4')
 # Set the position of the counting line
 count_line_position = 550
 
-# Initialize the background subtractor
+# Initialize the background remover
 algo = cv2.bgsegm.createBackgroundSubtractorMOG()
 
 # Function to calculate the center of a rectangle
